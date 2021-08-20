@@ -1,0 +1,19 @@
+{
+  "name": "finalsprintpro2",
+  "version": "1.0.0",
+  "description": "final sprint part 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Alex Bristow",
+  "license": "ISC",
+  "dependencies": {
+    "bst": "0.0.1",
+    "express": "^4.17.1",
+    "jest": "^27.0.6",
+    "path": "^0.12.7",
+    "treeify": "^1.1.0"
+  }
+}
